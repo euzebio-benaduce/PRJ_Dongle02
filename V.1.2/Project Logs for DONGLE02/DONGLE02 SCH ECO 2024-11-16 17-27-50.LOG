@@ -1,0 +1,18 @@
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part J1
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part J1
+Change Value of Parameter Datasheet Web in Part AH1 Old=HelpURL New=Datasheet Web
+Change Value of Parameter Datasheet Web in Part AH2 Old=HelpURL New=Datasheet Web
+Change Value of Parameter Datasheet Web in Part C1 Old=HelpURL New=Datasheet Web
+Change Value of Parameter Datasheet Web in Part C2 Old=HelpURL New=Datasheet Web
+Change Value of Parameter Datasheet Web in Part C3 Old=HelpURL New=Datasheet Web
+Change Value of Parameter Datasheet Web in Part C4 Old=HelpURL New=Datasheet Web
+Change Value of Parameter Datasheet Web in Part C5 Old=HelpURL New=Datasheet Web
+Change Value of Parameter Datasheet Web in Part D1 Old=HelpURL New=Datasheet Web
+Change Value of Parameter Datasheet Web in Part J1 Old=HelpURL New=Datasheet Web
+Change Value of Parameter Datasheet Web in Part J2 Old=HelpURL New=Datasheet Web
+Change Value of Parameter Datasheet Web in Part JP1 Old=HelpURL New=Datasheet Web
+Change Value of Parameter Datasheet Web in Part R1 Old=HelpURL New=Datasheet Web
+Change Value of Parameter Datasheet Web in Part U1 Old=HelpURL New=Datasheet Web
+Added Parameter Info= to Part J1
+Added Parameter Manufacturer= to Part J1
+Added Parameter Manufacturer P/N= to Part J1

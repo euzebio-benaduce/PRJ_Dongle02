@@ -1,0 +1,12 @@
+Change Component Description : Designator=C3 Old Description=0.1 µF ±20% 25V Capacitor de cerâmica X7R 0805 (métrico 2012) New Description=0.047 µF ±5% 25V Ceramic Capacitor X7R 0805 (2012 Metric)
+Change component parameters: Designator = "C3" ("C3"); Footprint = "C0805"; UniqueID = "\ROQBIMUM" ("\ROQBIMUM")
+Change component parameters (AddParameter): Name = "Datasheet Web"; Value = "https://datasheets.kyocera-avx.com/KGM_X7R.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Info"; Value = "MLCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KYOCERA AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer P/N"; Value = "KGM21NR71E473JT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier P/N (Cut Tape)"; Value = "478-KGM21NR71E473JTCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier P/N (Tape & Reel)"; Value = "478-KGM21NR71E473JTTR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Web"; Value = "https://www.digikey.com/en/products/detail/kyocera-avx/KGM21NR71E473JT/1602247"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.047uF"; VariantName = "[No Variations]"

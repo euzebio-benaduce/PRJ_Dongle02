@@ -1,0 +1,12 @@
+Change Component Description : Designator=J1 Old Description=Header, 6-Pin New Description=Connector Header Through Hole, Right Angle 6 position 0.100" (2.54mm)
+Change component parameters: Designator = "J1" ("J1"); Footprint = "BERG-M-6V-H-INV"; UniqueID = "\TZKWJOGO" ("\TZKWJOGO")
+Change component parameters (AddParameter): Name = "Datasheet Web"; Value = "https://app.adam-tech.com/products/download/data_sheet/201281/ph1rb-xx-ua-data-sheet.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Info"; Value = "CONN HEADER R/A 6POS 2.54MM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Adam Tech"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer P/N"; Value = "PH1RB-06-UA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier P/N (Cut Tape)"; Value = "2057-PH1RB-06-UA-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier P/N (Tape & Reel)"; Value = "2057-PH1RB-06-UA-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Web"; Value = "https://www.digikey.com/en/products/detail/adam-tech/PH1RB-06-UA/9830592"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1x6 0.1" Right Angle Pin Header"; VariantName = "[No Variations]"

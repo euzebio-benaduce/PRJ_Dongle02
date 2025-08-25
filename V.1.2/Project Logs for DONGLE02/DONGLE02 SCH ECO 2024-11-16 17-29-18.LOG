@@ -1,0 +1,19 @@
+Removed Parameter Publisher:Altium Limited from Part J1
+Change Value of Parameter RefDes in Part AH1 Old= New=RefDes
+Change Value of Parameter RefDes in Part AH2 Old= New=RefDes
+Change Value of Parameter RefDes in Part C1 Old= New=RefDes
+Change Value of Parameter RefDes in Part C2 Old= New=RefDes
+Change Value of Parameter RefDes in Part C3 Old= New=RefDes
+Change Value of Parameter RefDes in Part C4 Old= New=RefDes
+Change Value of Parameter RefDes in Part C5 Old= New=RefDes
+Change Value of Parameter RefDes in Part D1 Old= New=RefDes
+Change Value of Parameter RefDes in Part J2 Old= New=RefDes
+Change Value of Parameter RefDes in Part JP1 Old= New=RefDes
+Change Value of Parameter RefDes in Part R1 Old= New=RefDes
+Change Value of Parameter RefDes in Part U1 Old=rRefDes New=RefDes
+Added Parameter RefDes=RefDes to Part J1
+Added Parameter Supplier=Digikey to Part J1
+Added Parameter Supplier P/N (CT)= to Part J1
+Added Parameter Supplier P/N= to Part J1
+Added Parameter Supplier Web= to Part J1
+Added Parameter Value= to Part J1

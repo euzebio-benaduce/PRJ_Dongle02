@@ -1,0 +1,24 @@
+Added Component: Designator=F1(FIDUCIAL)
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Info"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "rRefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier P/N"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier P/N (CT)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Web"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=F2(FIDUCIAL)
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Info"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "rRefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier P/N"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier P/N (CT)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Web"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=DONGLE02 Member=Component F1
+Added Member To Class: ClassName=DONGLE02 Member=Component F2

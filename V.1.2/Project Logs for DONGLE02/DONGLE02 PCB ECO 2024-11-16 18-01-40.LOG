@@ -1,0 +1,13 @@
+Change Component Comment : Designator=U1 Old Comment= New Comment=2/2 RS232 400kbps
+Change Component Description : Designator=U1 Old Description=2/2 Transceiver Full RS232 SOIC16NARROW New Description=2/2 Transceiver Full RS232 16-SO
+Change component parameters: Designator = "U1" ("U1"); Footprint = "SOIC16N"; UniqueID = "\KCLFTZBS" ("\KCLFTZBS")
+Change component parameters (AddParameter): Name = "Datasheet Web"; Value = "https://www.st.com/content/ccc/resource/technical/document/datasheet/group1/40/2c/7f/62/3a/3f/47/3c/CD00002253/files/CD00002253.pdf/jcr:content/translations/en.CD00002253.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Info"; Value = "ST3232CDR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer P/N"; Value = "ST3232CDR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier P/N (Cut Tape)"; Value = "497-3731-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier P/N (Tape & Reel)"; Value = "497-3731-2-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Web"; Value = "https://www.digikey.com/en/products/detail/stmicroelectronics/ST3232CDR/686410?s=N4IgTCBcDaIMoBUDMYUGEAiAlEBdAvkA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2/2 RS232 400kbps"; VariantName = "[No Variations]"

@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=TXD Pin=J1-3
+Removed Pin From Net: NetName=RXD Pin=J1-4
+Removed Pin From Net: NetName=RTS Pin=J1-5
+Added Pin To Net: NetName=RTS Pin=J1-3
+Added Pin To Net: NetName=TXD Pin=J1-4
+Added Pin To Net: NetName=RXD Pin=J1-5
+Added Member To Class: ClassName=DONGLE02 Member=Component J1 Header 6

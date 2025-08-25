@@ -1,0 +1,31 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [DONGLE02.PcbDoc]
+   Generated File[DONGLE02.GTO]
+   Generated File[DONGLE02.GTP]
+   Generated File[DONGLE02.GTS]
+   Generated File[DONGLE02.GTL]
+   Generated File[DONGLE02.GBL]
+   Generated File[DONGLE02.GBS]
+   Generated File[DONGLE02.GBP]
+   Generated File[DONGLE02.GBO]
+   Generated File[DONGLE02.GM1]
+   Generated File[DONGLE02.GM2]
+   Generated File[DONGLE02.GM3]
+   Generated File[DONGLE02.GM4]
+   Generated File[DONGLE02.GM5]
+   Generated File[DONGLE02.GM7]
+   Generated File[DONGLE02.GM13]
+   Generated File[DONGLE02.GM15]
+   Generated File[DONGLE02.GM16]
+   Generated File[DONGLE02.GPT]
+   Generated File[DONGLE02.GPB]
+   Generated File[DONGLE02.GM]
+   Generated File[DONGLE02.EXTREP]
+   Generated File[DONGLE02.REP]
+
+
+Files Generated   : 22
+Documents Printed : 0
+
+Finished Output Generation At 11:44:30 On 2025-08-25

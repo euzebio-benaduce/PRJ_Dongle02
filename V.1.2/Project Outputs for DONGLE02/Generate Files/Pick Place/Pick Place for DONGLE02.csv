@@ -1,0 +1,23 @@
+Altium Designer Pick and Place Locations
+D:\Users\BENADUCE\Documents\GitHub\Dongle02\Project Outputs for DONGLE02\Generate Files\Pick Place\Pick Place for DONGLE02.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       25-08-25
+Time:       11:44
+Revision:   92242ef4f91b3caa73942e204cc546e7f8b290b1
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"C1","0.1uF","TopLayer","C0805","37.7500","73.2500","90","0.1 µF ±10% 100V Ceramic Capacitor X7R 0805 (2012 Metric)"
+"C2","0.33uF","TopLayer","C0805","41.5000","73.2500","270","0.33 µF ±5% 25V Ceramic Capacitor X7R 0805 (2012 Metric)"
+"C3","0.047uF","TopLayer","C0805","44.2500","76.5000","180","0.047 µF ±5% 25V Ceramic Capacitor X7R 0805 (2012 Metric)"
+"C4","0.33uF","TopLayer","C0805","44.2500","83.0000","180","0.33 µF ±5% 25V Ceramic Capacitor X7R 0805 (2012 Metric)"
+"C5","0.33uF","TopLayer","C0805","44.2500","79.7500","180","0.33 µF ±5% 25V Ceramic Capacitor X7R 0805 (2012 Metric)"
+"D1","Blue Led 0805","TopLayer","LED_0805","49.5300","76.9620","180","Blue 470nm LED Indication - Discrete 3.2V 0805 (2012 Metric)"
+"J1","Header 6","TopLayer","BERG-M-6V-H-INV","29.7000","78.4350","270","Connector Header Through Hole, Right Angle 6 position 0.100" (2.54mm)"
+"J2","MPT 0,5/ 6-2,54","TopLayer","1725698","60.0000","78.5200","90","6 Position Wire to Board Terminal Block Horizontal with Board 0.100" (2.54mm) Through Hole"
+"R1","180R","TopLayer","R0805","48.8696","79.0956","270","180 Ohms ±1% 0.25W, 1/4W Chip Resistor 0805 (2012 Metric) Anti-Sulfur Thin Film"
+"U1","2/2 RS232 400kbps","TopLayer","SOIC16N","39.5000","79.7500","180","2/2 Transceiver Full RS232 16-SO"
