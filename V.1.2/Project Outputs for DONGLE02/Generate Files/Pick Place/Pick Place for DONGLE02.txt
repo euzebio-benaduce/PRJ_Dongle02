@@ -1,12 +1,12 @@
 Altium Designer Pick and Place Locations
-D:\Users\BENADUCE\Documents\GitHub\Dongle02\Project Outputs for DONGLE02\Generate Files\Pick Place\Pick Place for DONGLE02.txt
+C:\PCB\PRJ_Dongle02\V.1.2\Project Outputs for DONGLE02\Generate Files\Pick Place\Pick Place for DONGLE02.txt
 
 ========================================================================================================================
 File Design Information:
 
-Date:       25-08-25
-Time:       11:44
-Revision:   92242ef4f91b3caa73942e204cc546e7f8b290b1
+Date:       18-11-25
+Time:       20:11
+Revision:   5f3238cef4d5d958e76d3f60d93eb7836c7f1604
 Variant:    No variations
 Units used: mm
 
